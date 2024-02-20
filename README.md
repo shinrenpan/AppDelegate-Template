@@ -1,5 +1,5 @@
 Title: AppDelegate Template  
-分類: [Xcode][L2]  
+Labels: [Xcode][L2]  
 Discussion: [Link][L3]  
 
 ## 前言
