@@ -1,5 +1,6 @@
 Title: AppDelegate Template  
-分類: Xcode  
+分類: [Xcode][L2]  
+Discussion: [Link][L3]  
 
 ## 前言
 
@@ -27,3 +28,5 @@ Template 僅會創建 AppDelegate.swift 跟最簡單的 Source, 必須手動創�
 
 
 [L1]: https://github.com/shinrenpan/AppDelegate-Template/releases/latest/
+[L2]: https://github.com/shinrenpan/Note/discussions?discussions_q=is%3Aopen+label%3AXcode
+[L3]: https://github.com/shinrenpan/Note/discussions/24
