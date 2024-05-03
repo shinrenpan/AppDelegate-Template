@@ -1,7 +1,3 @@
-Title: AppDelegate Template  
-Labels: [Xcode][L2]  
-Discussion: [Link][L3]  
-
 ## 前言
 
 目前創建 iOS App 都是使用 SceneDelegate Life Cycle, 少數公司還是會要求使用 AppDelegate,  
